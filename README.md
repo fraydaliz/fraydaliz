@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on github
+- 🔭 I’m currently working on websites
 - 🌱 I’m currently learning HTML, Javascript, CSS, Git and Github
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with everything related to web dev
