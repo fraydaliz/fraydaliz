@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 
 - 🔭 I’m currently working on github
@@ -11,4 +11,4 @@
 - 📫 How to reach me: carpiofraydaliz19@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: bilingual 
--->
+
